@@ -224,13 +224,23 @@ From the trained model:
 
 ## 14. Project Files
 
-- [LaptopPriceDataPreprocessing Notebook](notebooks/LaptopPriceDataPreprocessing.ipynb) – Preprocessing and exploratory data analysis  
-- [Laptop PriceML Notebook](notebooks/Laptop%20PriceML.ipynb) – Model building, evaluation, and predictions  
-- [Dataset](data/laptop_price_dataset.csv) – Raw dataset  
-- [Preprocessed Dataset](outputs/data_preprocessed.csv) – Cleaned dataset ready for modeling  
-- [Images](images/) – Charts and visualizations  
+[Data Preprocessing Notebook](LaptopPriceDataPreprocessing.ipynb)
 
----
+[ML Notebook](Laptop%20PriceML.ipynb)
+
+[Raw Data](laptop_price_dataset.csv)
+
+[Processed Data](data_preprocessed.csv)
+
+[Image](Price_Distribution.png) - Price_Distribution
+
+[Image](Log_Price_Distribution.png) - Log_Price_Distribution
+
+[Image](Predicted_VS_Residuals.png) - Predicted_VS_Residuals
+
+[Image](TestData_Predicted_Vs_Actual%20ScatterPlot.png) - TestData_Predicted_Vs_Actual ScatterPlot
+
+[Image](Train_Predicted_Vs_Actual%20ScatterPlot.png) - Train_Predicted_Vs_Actual ScatterPlot
 
 ## 15. Conclusion
 
