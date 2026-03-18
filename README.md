@@ -222,8 +222,7 @@ From the trained model:
 
 ---
 
-## 14. Repository Structure
-## 🔧 Project Files
+## 14. Project Files
 
 - [LaptopPriceDataPreprocessing Notebook](notebooks/LaptopPriceDataPreprocessing.ipynb) – Preprocessing and exploratory data analysis  
 - [Laptop PriceML Notebook](notebooks/Laptop%20PriceML.ipynb) – Model building, evaluation, and predictions  
