@@ -223,30 +223,13 @@ From the trained model:
 ---
 
 ## 14. Repository Structure
-laptop-price-prediction/
-¦
-+-- data/
-¦ +-- laptop_price_dataset.csv
-¦
-+-- notebooks/
-¦ +-- LaptopPriceDataPreprocessing.ipynb
-¦ +-- Laptop PriceML.ipynb
-¦
-+-- images/
-¦ +-- Log_Price_Distribution.png
-¦ +-- Predicted_VS_Residuals.png
-¦ +-- Price_Distribution.png
-¦ +-- Residual_PDF.png
-¦ +-- TestData_Predicted_Vs_Actual ScatterPlot.png
-¦ +-- Train_Predicted_Vs_Actual ScatterPlot.png
-¦
-+-- dashboard/
-¦ +-- Supply_Chain_Dashboard in Power Bi.pbix
-¦
-+-- outputs/
-¦ +-- data_preprocessed.csv
-¦
-+-- README.md
+## 🔧 Project Files
+
+- [LaptopPriceDataPreprocessing Notebook](notebooks/LaptopPriceDataPreprocessing.ipynb) – Preprocessing and exploratory data analysis  
+- [Laptop PriceML Notebook](notebooks/Laptop%20PriceML.ipynb) – Model building, evaluation, and predictions  
+- [Dataset](data/laptop_price_dataset.csv) – Raw dataset  
+- [Preprocessed Dataset](outputs/data_preprocessed.csv) – Cleaned dataset ready for modeling  
+- [Images](images/) – Charts and visualizations  
 
 ---
 
