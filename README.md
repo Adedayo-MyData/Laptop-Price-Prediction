@@ -264,5 +264,5 @@ From the trained model:
 ## Author
 
 **Adedayo Adebayo**  
-Data Scientist | Business Analyst
+Data Analyst | ML Practitioner
 
